@@ -1,0 +1,44 @@
+font.roboto
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: lavender;
+}
+
+body, html {
+   color: black; 
+   font-family: 'Roboto', sans-serif;
+   height: 100%;
+   letter-spacing: .0.25rem;
+
+/* Firefox Fix */
+overflow: auto;
+scrollbar-width: none ;
+
+
+}
+
+.text-center {
+    text-align: center;
+}
+
+.front-bold {
+    font-weight: bold;
+}
+
+p.para {
+    line-height: 1.5rem;
+}
+
+p.para::first-line {
+    text-indent: 50px;
+}

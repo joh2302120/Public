@@ -5,7 +5,7 @@
 
 body {
   font-family: 'Roboto' ;
-  font-size: 2.5em;
+  font-size: 2.4em;
   padding: .7em 3em;
   background: #000022;
   
@@ -17,3 +17,13 @@ body {
 Header h1 {
   text-align: center;
 }
+.navbar{
+list-style: none;
+text-decoration: none;
+margin: 1rem auto;
+}
+.main-nav li{
+  list-style: none;
+  text-decoration: none;
+  margin: 1rem auto;
+  }

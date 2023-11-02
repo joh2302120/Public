@@ -38,9 +38,13 @@ margin: 1rem auto;
     background: #E28413;
     color: #000022;
     Padding: 10px;
-    Position: absolute;
-    left: 0;
-    right: 0;
+    position: fixed;
+    padding: 10px 10px 0px 10px;
     bottom: 0;
+    Right:0;
+    Left:0;
     
+    /* Height of the footer*/
+    height: 40px;
+
   }

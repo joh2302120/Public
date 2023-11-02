@@ -37,5 +37,8 @@ margin: 1rem auto;
     background: #E28413;
     color: #000022;
     Padding: 10px;
-    
+    Position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
   }

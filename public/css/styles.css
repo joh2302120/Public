@@ -15,6 +15,7 @@ body {
   /* footer */
   position: relative;
   padding-bottom: 50px;
+ 
 }
 Header h1 {
   text-align: center;
@@ -41,4 +42,5 @@ margin: 1rem auto;
     left: 0;
     right: 0;
     bottom: 0;
+    
   }

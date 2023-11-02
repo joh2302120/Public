@@ -8,11 +8,13 @@ body {
   font-size: 1.5em;
   padding: .7em 3em;
   background: #000022;
-  
   height: 100%; 
   letter-spacing: .0.25rem;
   text-align: center;
-  color: #E28413
+  color: #E28413;
+  /* footer */
+  position: relative;
+  padding-bottom: 50px;
 }
 Header h1 {
   text-align: center;
@@ -32,4 +34,8 @@ margin: 1rem auto;
   Footer {
     text-align: center;
     font-style: italic;
+    background: #E28413;
+    color: #000022;
+    Padding: 10px;
+    
   }

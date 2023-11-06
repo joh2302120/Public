@@ -23,6 +23,21 @@ Header h1 {
 nav a{
   text-decoration: none;
 }
+.navbar{
+list-style: none;
+	display: flex;
+	width: 100%;
+	max-width: 1000px;
+	justify-content: space-between;
+	text-align: center;
+  background: #E28413;
+  color: #000022;
+  bottom: 0;
+  Right:0;
+  Left:0;
+}
+
+
 ul{
 	display: flex;
 	width: 100%;
@@ -36,18 +51,14 @@ ul{
   Left:0;
 }
 li {
-	text-transform: uppercase;
+	list-style: none;
   cursor: pointer;
   padding: 10px 10px 0px 10px;
 }
-.navbar{
-list-style: none;
-margin: 1rem auto;
-}
+
 .main-nav li{
   list-style: none;
   margin: 1rem auto;
-
   }
 
   Footer {

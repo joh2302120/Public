@@ -5,8 +5,8 @@
 
 body {
   font-family: 'Roboto' ;
-  font-size: 1.5em;
-  padding: .7em 3em;
+  font-size: 1.7em;
+  padding: 1em 5em;
   background: #000022;
   height: 100%; 
   letter-spacing: .0.25rem;
@@ -39,7 +39,7 @@ list-style: none;
 li {
 	list-style: none;
   cursor: pointer;
-  padding: 10px 10px 0px 10px;
+  padding: 10px 10px 0px 5px;
 }
 
 .main-nav li{

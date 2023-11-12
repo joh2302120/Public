@@ -4,7 +4,7 @@
 ::-webkit-scrollbar { display: none;}
 
 body {
-  font-family: 'Roboto' ;
+  font-family: "Roboto", sans-serif;
   font-size: 1.7em;
   padding: 1em 5em;
   background: #000022;
@@ -17,6 +17,17 @@ body {
   padding-bottom: 50px;
  
 }
+
+img {
+width: 100%;
+height: auto;
+}
+
+img.thumb {
+height: 95px;
+width: 124px;
+}
+
 Header h1 {
   text-align: center;
 }
@@ -61,5 +72,35 @@ li {
     
     /* Height of the footer*/
     height: 40px;
-
   }
+ /*thumb image*/
+.news {
+  background-color: transparent;
+  padding: 1em .5rems;
+}
+.news h3{
+  text-align: center;
+  font-weight: bold;
+  padding: 1rem;
+}
+
+.news__articles{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+}
+
+.news__article{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.news__article + .news__article {
+  margin-top: 1rem;
+}
+
+.news__article h4 {
+  margin-left: .5rem;
+  line-height: 1.5;
+}

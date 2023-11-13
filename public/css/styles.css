@@ -76,7 +76,7 @@ li {
  /*thumb image*/
 .news {
   background-color: transparent;
-  padding: 1em .5ems;
+  padding: 1rem;
 }
 .news h3{
   text-align: center;

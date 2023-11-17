@@ -39,7 +39,7 @@ list-style: none;
 	width: 100%;
 	justify-content: space-between;
 	text-align: center;
-  background: #F5F5DC;
+  background: #9CFFBE;
   bottom: 0;
   Right:0;
   Left:0;
@@ -58,7 +58,7 @@ li {
   Footer {
     text-align: center;
     font-style: italic;
-    background: #F5F5DC;
+    background: #9CFFBE;
     color: #29001b;
     Padding: 10px;
     position: fixed;

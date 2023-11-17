@@ -6,14 +6,15 @@
 body {
   font-family: "Roboto", sans-serif;
   font-size: 1.7em;
-  background: #000022;
+  background: #D6FFE4;
   height: 100%; 
   letter-spacing: 0.1rem;
   text-align: center;
-  color: #E28413;
+  color: #29001b;
   /* footer */
   position: relative;
   padding-bottom: 50px; 
+  font-weight: bold;
 }
 
 img {
@@ -38,8 +39,7 @@ list-style: none;
 	width: 100%;
 	justify-content: space-between;
 	text-align: center;
-  background: #E28413;
-  color: #000022;
+  background: #F5F5DC;
   bottom: 0;
   Right:0;
   Left:0;
@@ -58,8 +58,8 @@ li {
   Footer {
     text-align: center;
     font-style: italic;
-    background: #E28413;
-    color: #000022;
+    background: #F5F5DC;
+    color: #29001b;
     Padding: 10px;
     position: fixed;
     padding: 10px 10px 0px 10px;

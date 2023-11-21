@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "running-out-everything-always"
-  }
+    "default": "running-out-everything-always",
+    "main": "running-out-everything-always"
+  },
+  "targets": {},
+  "etags": {}
 }

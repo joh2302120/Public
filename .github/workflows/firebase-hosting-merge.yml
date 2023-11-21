@@ -15,7 +15,7 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: >-
-            ${{ secrets.FIREBASE_SERVICE_ACCOUNT_FINAL_PROJECT_PART_1_CIS133DA
+            ${{ secrets.FIREBASE_SERVICE_ACCOUNT_RUNNING_OUT_EVERYTHING_ALWAYS
             }}
           channelId: live
-          projectId: final-project-part-1-cis133da
+          projectId: running-out-everything-always

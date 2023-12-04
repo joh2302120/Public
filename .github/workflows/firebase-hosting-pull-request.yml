@@ -15,4 +15,4 @@ jobs:
           firebaseServiceAccount: >-
             ${{ secrets.FIREBASE_SERVICE_ACCOUNT_FINAL_PROJECT_PART_1_CIS133DA
             }}
-          projectId: final-project-part-1-cis133da
+          projectId: running-out-everything-always
